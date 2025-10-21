@@ -11,5 +11,6 @@ LLM Sematic Cache Papers
 8. Arun Iyengar, Ashish Kundu, Ramana Kompella, Sai Nandan Mamidi: [A Generative Caching System for Large Language Models](https://arxiv.org/pdf/2503.17603). CoRR abs/2503.17603 (2025)
 9. Keihan Haqiq, Majid Vafaei Jahan, Saeede Anbaee Farimani, Seyed Mahmood Fattahi Masoom: MinCache: A hybrid cache system for efficient chatbots with hierarchical embedding matching and LLM. Future Gener. Comput. Syst. 170: 107822 (2025)
 10. Sajal Regmi, Chetan Phakami Pun: [GPT Semantic Cache: Reducing LLM Costs and Latency via Semantic Embedding Caching](https://arxiv.org/pdf/2411.05276). CoRR abs/2411.05276 (2024) [Codes](https://www.npmjs.com/package/gpt-semantic-cache), [Dataset](https://github.com/sajalregmi/gpt-semantic-cache-test/tree/main/test_dataset), [Test Scripts](https://github.com/sajalregmi/gpt-semantic-cache-test/blob/main/test.ts)
+11. **[ContextCache]** Jianxin Yan, Wangze Ni, Lei Chen, Xuemin Lin, Peng Cheng, Zhan Qin, Kui Ren: ContextCache: [Context-Aware Semantic Cache for Multi-Turn Queries in Large Language Models](https://www.vldb.org/pvldb/vol18/p5391-yan.pdf). Proc. VLDB Endow. 18(12): 5391-5394 (2025) [Github page](https://github.com/uYanJX/ContextCache)
 
 
